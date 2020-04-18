@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 chapter 5
+=======
+chapter 5 in new branch
+>>>>>>> new
